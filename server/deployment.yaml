@@ -28,5 +28,3 @@ spec:
           protocol: TCP
       restartPolicy: Always
   replicas: 1
-© 2021 GitHub, Inc.
-Terms
